@@ -1,0 +1,144 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box
+}
+html, body{
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#caixa{
+    background-color: #dbd9d9;
+   height: 600px;
+   width: 400px;
+   border-radius: 20px;
+   border-color: white;
+   
+
+    
+
+}
+#circulo {
+    display: flex;
+    background: white;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    align-items: center;
+    justify-content: center;
+}
+#caixa2{
+   display: flex;
+   height: 30%;
+   background-color: rgb(255, 255, 255);
+   border-color: rgb(155, 59, 59);
+   align-content: space-between;
+   justify-content: space-between;
+
+
+
+}
+#gaveta {
+    display: flex;
+    width: 50%;
+    height: 100%;
+    background-color: #dbd9d9;
+    border-width: 1px;
+    border-style: solid; 
+    border-color:  rgb(255, 255, 255);
+    border-radius: 20px; 
+    align-items: center;
+    justify-content: center;
+    
+    
+ 
+ }
+ #gaveta1 {
+    display: flex;
+    width: 50%;
+    height: 100%;
+    background-color: #ffffff;
+    border-width: 1px;
+    border-style: solid; 
+    border-color:  rgb(255, 255, 255);
+    border-radius: 20px; 
+    flex-wrap: wrap;
+    
+ }
+ #roupas{
+    display: flex;
+    width: 100%;
+    height: 50%;
+    background-color: #dbd9d9;
+
+    border-style: solid; 
+    border-color:  rgb(255, 255, 255);
+    border-radius: 20px; 
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    
+ }
+ #roupas1{
+    display: flex;
+    width: 50%;
+    height: 50%;
+    background-color: #dbd9d9;
+    border-width: 2px;
+    border-style: solid; 
+    border-color:  rgb(255, 255, 255);
+    border-radius: 20px; 
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+ }
+#roupas2{
+    display: flex;
+    width: 50%;
+    height: 50%;
+    background-color: #dbd9d9;
+    border-width: 2px;
+    border-style: solid; 
+    border-color:  rgb(255, 255, 255);
+    border-radius: 20px; 
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+#part2{
+    display: flex;
+   height: 40%;
+   background-color: rgb(255, 255, 255);
+   border-color: rgb(155, 59, 59);
+   align-content: space-between;
+   justify-content: space-between;
+    
+}
+#gaveta3{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: #dbd9d9;
+    border-width: 2px;
+    border-style: solid; 
+    border-color:  rgb(255, 255, 255);
+    border-radius: 10%; 
+    align-items: center;
+    justify-content: center;
+}
+#part3{
+    display: flex;
+   height: 30%;
+   background-color: rgb(255, 255, 255);
+   border-color: rgb(155, 59, 59);
+   align-content: space-between;
+   justify-content: space-between;
+    
+}
+
